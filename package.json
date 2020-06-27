@@ -13,6 +13,7 @@
     "firebase": "^5.7.1",
     "toastr": "^2.1.4",
     "vue": "^2.5.2",
+    "vue-radial-menu": "^1.1.1",
     "vuefire": "^1.4.5"
   },
   "devDependencies": {
