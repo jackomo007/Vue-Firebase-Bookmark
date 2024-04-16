@@ -22,7 +22,7 @@
       </radial-menu-item>
     </radial-menu>
     <div class="card text-white bg-dark mb-3">
-      <div class="card-body" style="display: grid;grid-template-columns: repeat(10, auto);grid-gap: 2vw;justify-content: center;">
+      <div class="card-body" style="display: grid;grid-template-columns: repeat(10, auto);grid-gap: 1vw;justify-content: center;">
          <div v-for="link in links" :key="link.id">
           <a target="_blank" v-bind:href="'https://'+link.url">
             <i
